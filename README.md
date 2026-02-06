@@ -1,5 +1,7 @@
 # Model-to-analyze-loans
 Created a Model to analyze loans
+
+
 Link: https://colab.research.google.com/drive/1rwsFqPuUlCmTWUNcfUthgY3bx7QrvhW1
 
 
